@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @GitmuTech
-- I’m interested in Cpp, Front-End development 
-- I’m currently learning JavaScript and Cpp
-- I’m looking to collaborate on web development project 
+- 👋 Hi, We're @GitmuTech
+- We looking to collaborate on web development projects and electronics. 
 
 
 <!---
